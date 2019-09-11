@@ -18,4 +18,4 @@ Follow the build instruction: http://lem12.uksw.edu.pl/images/a/a8/INSTALL_VLP.p
 For Windows go to: http://lem12.uksw.edu.pl/wiki/Kompilator_na_Windows
 
 # About Loglan'82
-About Loglan'82: http://lem12.uksw.edu.pl/wiki/Loglan%2782  
+Don't forget to read about Loglan'82 history: http://lem12.uksw.edu.pl/wiki/Loglan%2782  
